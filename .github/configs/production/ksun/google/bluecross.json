@@ -60,13 +60,13 @@
   },
 
   "image": {
-    "use": false,
-    "imageUrl": "",
+    "use": true,
+    "imageUrl": "https://github.com/johnsontsai11/kernel_google_b1c1/releases/download/cloud/boot.img",
     "imageName": "boot.img"
   },
 
   "AnyKernel3": {
-    "use": true,
+    "use": false,
     "release": true,
     "repo": "https://github.com/kernel-build-from-rainyland/AnyKernel3",
     "branch": "master"
