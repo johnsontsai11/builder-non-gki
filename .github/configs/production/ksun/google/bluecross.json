@@ -6,7 +6,7 @@
     "defconfig": "b1c1_defconfig",
     "extraConfig": "",
     "repo": "https://github.com/johnsontsai11/kernel_google_b1c1",
-    "branch": "main"
+    "branch": "bka"
   },
   "output_image": "Image.gz-dtb",
 
